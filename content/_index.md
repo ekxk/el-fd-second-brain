@@ -1,6 +1,6 @@
 ---
-title: ✍️ Second Brain
-date: 2022-09-24
+title: ✍️ Learning notes
+date: 
 toc: false
 
 image:
@@ -8,21 +8,21 @@ image:
   caption: NASA
 ---
 
-Welcome to the _Second Brain_ template!
+Welcome to my _Learning notes_
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+This is a page for sharing things I learned during grad school, for anyone who might benefit from it.
 
 - It is your second brain 🧠, stored in future-proof Markdown files 
 - Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
 - Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
 
 ```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
+- Theme
+  - python
+  - renewable energy
+  - atmospheric science?
+  - RE project financing
+  - climate change?
 ```
 
 ## Public vs Private Second Brain
