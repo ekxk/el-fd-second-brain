@@ -1,3 +1,12 @@
+---
+title: Surface Waves
+linktitle: Surface Waves
+date: '2023-05-17T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
+
 # General surface waves problem: 
 potential flow, but has different nature of problem and different approach of the solution so that it is separated from the other potential flows.
 
